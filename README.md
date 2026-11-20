@@ -3,7 +3,7 @@
   <img src="./assets/header-light.svg" alt="berkezap, backend developer, venice" width="100%">
 </picture>
 
-Hi, I'm Berke. I work at [CarStudio AI](https://github.com/CarStudioAI), mostly on Java/Spring Boot services and the image and video processing behind the product. That code is private, so what you see here is mostly side projects.
+Hi, I'm Berke. I work at [CarStudio AI], mostly on Java/Spring Boot services and the image and video processing behind the product. That code is private, so what you see here is mostly side projects.
 
 <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,react,swift,mongodb,redis,aws,docker&perline=10" height="40" alt="Java, Spring, TypeScript, Next.js, React, Swift, MongoDB, Redis, AWS, Docker">
 
